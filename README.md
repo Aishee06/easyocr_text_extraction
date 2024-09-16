@@ -1,4 +1,4 @@
-# Extracting Numeric Values from Images using OCR for Entity Recognition 🖼️🔢
+# Extracting Numeric Values from Images using EasyOCR for Entity Recognition 🖼️🔢
 
 ## Introduction 🚀
 
